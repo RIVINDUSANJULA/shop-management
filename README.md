@@ -1,1 +1,1 @@
-# My Project Hotel Managemmt with React
+# My Project Hotel Management with React
