@@ -1,9 +1,33 @@
-.Main{
-    color: black;
+/* .Main{
+    background: radial-gradient(rgb(54, 222, 143),rgb(54, 158, 222)rgb(54, 222, 143),rgb(54, 124, 222));
+}
+
+Link{
+    color: white;
+    background-color: aqua;
 }
 
 .links{
     background-color: black;
     color: blue;
     margin-left: 1000px;
+    size: 100px;
+    padding: 100px;
+} */
+
+.Navbar{
+    display:block;
+    background:
+        linear-gradient(45deg, rgb(0, 255, 51), transparent 80%),
+        linear-gradient(90deg, rgb(222, 202, 54), transparent 65%),
+        linear-gradient(135deg, rgb(85, 54, 222), transparent 55%),
+        linear-gradient(180deg, rgb(222, 54, 177), transparent 80%)
+    ;
+    font-size:20px;
+}
+
+.nav-links{
+    color: black;
+    margin:5px 22px 8px;
+    text-decoration: none;
 }
