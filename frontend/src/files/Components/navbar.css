@@ -17,6 +17,7 @@ Link{
 
 .Navbar{
     display:block;
+    text-align: center;
     background:
         linear-gradient(45deg, rgb(0, 255, 51), transparent 80%),
         linear-gradient(90deg, rgb(222, 202, 54), transparent 65%),
